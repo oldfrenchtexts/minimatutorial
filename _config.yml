@@ -2,7 +2,7 @@ title: Awesome Sauce
 author:
   name: Bobalobadingdong Fred
   email: notyet
-description: > # this means to ignore newlines until "show_excerpts:"
+description: > 
   Cool site brah
 
 show_excerpts: false # set to true to show excerpts on the homepage
