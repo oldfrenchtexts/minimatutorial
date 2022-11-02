@@ -4,7 +4,7 @@ title: Attempted Table
 categories: misc
 ---
 
-Facsimile | Transcription | Translation
---- | --- | --- 
-Image | Old French With Hyperlinks | Modern English
+| Facsimile | Transcription | Translation |
+| :---: | :---: | :---: |
+| Image | Old French With Hyperlinks | Modern English |
 
